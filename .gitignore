@@ -1,0 +1,6 @@
+# OS/IDE 파일 무시
+.db.sqlite3
+.vscode/
+.venv/
+
+*.pyc
